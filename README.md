@@ -1,4 +1,4 @@
-![Banner](./DF_banner.png)
+![Banner](./DF_banner.gif)
 
 # Hi 👋
 
