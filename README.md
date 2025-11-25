@@ -14,7 +14,7 @@ Currently building my skills across the full data pipeline — from exploration 
 - **Machine Learning:** Scikit-learn · Neural Networks · LLM Agents  
 - **Web & Deployment:** React · Firebase · Vercel · Railway · Appwrite
 
-![Banner](./DF_github_divider.gif)
+![Banner](./DF_github_divider2.gif)
 
 ## 🌟 Featured Projects
 
@@ -29,7 +29,7 @@ Currently building my skills across the full data pipeline — from exploration 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dfeyerabend&show_icons=true&theme=default)
 
-![Banner](./DF_github_divider.gif)
+![Banner](./DF_github_divider2.gif)
 
 ## 📫 Connect With Me
 
