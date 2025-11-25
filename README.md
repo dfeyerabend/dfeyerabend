@@ -1,4 +1,4 @@
-### Hi, I'm Dennis 👋
+## Hi, I'm Dennis 👋
 I'm an aspiring Data Analyst based in Germany, passionate about turning raw data into meaningful insights.
 Currently building my skills across the full data pipeline — from exploration and cleaning to visualization, machine learning, and deployment.
 
