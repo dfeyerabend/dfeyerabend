@@ -20,7 +20,7 @@ Currently building my skills across the full data pipeline — from exploration 
 
 | | |
 |---|---|
-| [![Data Cleaning Projekt](https://github-readme-stats.vercel.app/api/pin/?username=dfeyerabend&repo=data_cleaning&theme=default)](https://github.com/dfeyerabend/data_cleaning) | [![Data Vizualization Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=dfeyerabend&repo=REPO-NAME-2&theme=default)](https://github.com/dfeyerabend/REPO-NAME-2) |
+| [![Data Cleaning Projekt](https://github-readme-stats.vercel.app/api/pin/?username=dfeyerabend&repo=data_cleaning&theme=default)](https://github.com/dfeyerabend/data_cleaning) | [![Data Vizualization Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=dfeyerabend&repo=data_overview_dashboard&theme=default)](https://github.com/dfeyerabend/data_overview_dashboard) |
 | [![Chatbot System](https://github-readme-stats.vercel.app/api/pin/?username=dfeyerabend&repo=ai_chatbot_system&theme=default)](https://github.com/dfeyerabend/ai_chatbot_system) | [![Research Assistant](https://github-readme-stats.vercel.app/api/pin/?username=dfeyerabend&repo=multistep-research-assistant&theme=default)](https://github.com/dfeyerabend/multistep-research-assistant) |
 
 ![Banner](./DF_github_divider2.gif)
