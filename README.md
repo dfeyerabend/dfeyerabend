@@ -27,7 +27,7 @@ Currently building my skills across the full data pipeline — from exploration 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dfeyerabend&show_icons=true&theme=default)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dfeyerabend&theme=github-light)
 
 ![Banner](./DF_github_divider2.gif)
 
