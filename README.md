@@ -20,15 +20,17 @@ Currently building my skills across the full data pipeline — from exploration 
 
 ### 🧹 Data Engineering & Tools
 
-| | |
-|---|---|
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dfeyerabend&repo=data_cleaning&theme=default)](https://github.com/dfeyerabend/data_cleaning) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dfeyerabend&repo=data_overview_dashboard&theme=default)](https://github.com/dfeyerabend/data_overview_dashboard) |
+| Project | Description |
+|---------|-------------|
+| [**data_cleaning**](https://github.com/dfeyerabend/data_cleaning) | Pandas utilities for inspecting & cleaning tabular data with Jupyter display helpers |
+| [**data_overview_dashboard**](https://github.com/dfeyerabend/data_overview_dashboard) | Interactive data visualization dashboard |
 
 ### 🤖 AI & LLM Applications
 
-| | |
-|---|---|
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dfeyerabend&repo=ai_chatbot_system&theme=default)](https://github.com/dfeyerabend/ai_chatbot_system) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dfeyerabend&repo=multistep-research-assistant&theme=default)](https://github.com/dfeyerabend/multistep-research-assistant) |
+| Project | Description |
+|---------|-------------|
+| [**ai_chatbot_system**](https://github.com/dfeyerabend/ai_chatbot_system) | CLI chatbot powered by Google Gemini with personas, SQLite storage & live demo |
+| [**multistep-research-assistant**](https://github.com/dfeyerabend/multistep-research-assistant) | LangGraph-powered AI research agent with React frontend & web search |
 
 
 ![Banner](./DF_github_divider2.gif)
