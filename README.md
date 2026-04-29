@@ -2,16 +2,17 @@
 
 # Hi 👋
 
-- I'm a Data Analyst based in Germany, passionate about turning raw data into meaningful insights.
-Currently building my skills across the full data pipeline — from exploration and cleaning to visualization, machine learning, and deployment.
+- I'm an aspiring AI Engineer based in Germany, focused on building LLM-powered systems and end-to-end ML pipelines.
+- My work includes real-time voice interfaces, multi-agent architectures, and model evaluation pipelines, with an emphasis on practical deployment and system performance.
 
 
 ## 🛠️ Tech Stack
 
-- **Data & Analytics:** Python · Pandas · SQL · DuckDB · PySpark · R  
-- **Visualization & Dashboards:** Matplotlib · Seaborn · Plotly · Streamlit  
-- **Machine Learning:** Scikit-learn · Neural Networks · LLM Agents  
-- **Web & Deployment:** React · Firebase · Vercel · Railway · Appwrite
+- **Languages & Data:** Python · SQL · PySpark · R  
+- **ML & LLMs:** PyTorch · scikit-learn · Transformers · RAG · LLM Agents  
+- **Data & Processing:** Pandas · Polars · DuckDB  
+- **Visualization:** Matplotlib · Plotly · Streamlit  
+- **Deployment:** FastAPI · Docker · Railway · AWS/GCP 
 
 
 ## 🌟 Featured Projects
@@ -38,9 +39,9 @@ Currently building my skills across the full data pipeline — from exploration 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/dennis-feyerabend-20314515b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](feyerabend_dennis@web.de)
 
 ---
 
-I'm always open to interesting collaborations, feedback, or just a chat about data.
+Interested in AI engineering roles, LLM systems, and applied ML projects.
