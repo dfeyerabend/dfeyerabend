@@ -27,9 +27,8 @@ Currently building my skills across the full data pipeline — from exploration 
 
 | Project | Description |
 |---------|-------------|
-| [**ai_chatbot_system**](https://github.com/dfeyerabend/ai_chatbot_system) | CLI chatbot powered by Google Gemini with personas, SQLite storage & live demo |
-| [**multistep-research-assistant**](https://github.com/dfeyerabend/multistep-research-assistant) | LangGraph-powered AI research agent with React frontend & web search |
-
+| [**realtime-voice-agent**](https://github.com/dfeyerabend/realtime-voice-agent) | Real-time voice chatbot with streaming STT → LLM → TTS pipeline, reducing latency from ~10s to ~1–2s |
+| [**multi-agent-code-review**](https://github.com/dfeyerabend/multi-agent-code-review) | Multi-agent system for automated Python code review using RAG and LLM-based evaluation |
 
 
 ## 📊 GitHub Stats
