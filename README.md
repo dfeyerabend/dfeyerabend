@@ -17,12 +17,11 @@
 
 ## 🌟 Featured Projects
 
-### 🧹 Data Engineering & Tools
+### 🧠 Machine Learning
 
 | Project | Description |
 |---------|-------------|
-| [**data_cleaning**](https://github.com/dfeyerabend/data_cleaning) | Pandas utilities for inspecting & cleaning tabular data with Jupyter display helpers |
-| [**data_overview_dashboard**](https://github.com/dfeyerabend/data_overview_dashboard) | Interactive data visualization dashboard |
+| [**distil-support-llm**](https://github.com/Feyerade/distil-support-llm) | QLoRA fine-tuning of a 7B German LLM + knowledge distillation into a 1B student model — 2.7× faster inference at 75% lower VRAM, evaluated with an LLM-as-judge pipeline |
 
 ### 🤖 AI & LLM Applications
 
