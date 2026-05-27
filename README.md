@@ -29,7 +29,7 @@
 | Project | Description |
 |---------|-------------|
 | [**realtime-voice-agent**](https://github.com/dfeyerabend/realtime-voice-agent) | Real-time voice chatbot with streaming STT → LLM → TTS pipeline, reducing latency from ~10s to ~1–2s |
-| [**multi-agent-code-review**](https://github.com/dfeyerabend/multi-agent-code-review) | Multi-agent system for automated Python code review using RAG and LLM-based evaluation |
+| [**multi-agent-code-review**](https://github.com/dfeyerabend/multi-agent-code-review) | Multi-agent RAG system for automated Python code review using RAG and LLM-based evaluation |
 
 
 ## 📊 GitHub Stats
