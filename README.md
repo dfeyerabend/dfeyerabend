@@ -20,7 +20,7 @@
 ### 📊 Data Wrangling
 | Project | Description |
 |---------|-------------|
-| [**data-quality-toolkit*](https://https://github.com/dfeyerabend/data-quality-toolkit) | 🚧 WIP · Data quality checks and cleaning for tabular data, one API over two engines: pandas for messy CSV and DuckDB SQL for typed Parquet |
+| [**data-quality-toolkit**](https://https://github.com/dfeyerabend/data-quality-toolkit) | 🚧 WIP · Data quality checks and cleaning for tabular data, one API over two engines: pandas for messy CSV and DuckDB SQL for typed Parquet |
 
 
 ### 🧠 Machine Learning
