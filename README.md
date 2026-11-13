@@ -25,16 +25,17 @@
 
 ### 🧠 Machine Learning
 
-| Project | Description |
-|---------|-------------|
-| [**distil-support-llm**](https://github.com/dfeyerabend/distill-support-llm) | QLoRA fine-tuning of a 7B German LLM and distillation into a 1B student — 2.9× throughput at a quarter of the VRAM. Evaluated with a pre-specified paired design: blind LLM-as-judge scoring, exact McNemar tests with Holm correction, bootstrap intervals |
+| Project | Description | Repo | Demo |
+|---------|-------------|------|------|
+| **distill-support-llm** | QLoRA fine-tuning of a 7B German LLM + knowledge distillation into a 1B student model — 2.7× faster inference at 75% lower VRAM, evaluated with an LLM-as-judge pipeline | [Code](https://github.com/dfeyerabend/distill-support-llm) | [Demo](https://huggingface.co/spaces/Feyerade/german-support-llm-demo) |
 
 ### 🤖 AI & LLM Applications
 
-| Project | Description |
-|---------|-------------|
-| [**multi-agent-code-review**](https://github.com/dfeyerabend/multi-agent-code-review) | Four-agent pipeline for automated Python code review, grounded in a RAG knowledge base; ratings follow fixed rules in code, so results are reproducible |
-| [**realtime-voice-agent**](https://github.com/dfeyerabend/realtime-voice-agent) | Real-time voice chatbot with streaming STT → LLM → TTS pipeline, reducing latency from ~10s to ~1–2s |
+| Project | Description | Repo | Demo |
+|---------|-------------|------|------|
+| **multi-agent-code-review** | Multi-agent RAG system for automated Python code review using RAG and LLM-based evaluation | [Code](https://github.com/dfeyerabend/multi-agent-code-review) | [Demo](https://multi-agent-code-review-production.up.railway.app) |
+| **realtime-voice-agent** | Real-time voice chatbot with streaming STT → LLM → TTS pipeline, reducing latency from ~10s to ~1–2s | [Code](https://github.com/dfeyerabend/realtime-voice-agent) | [Demo](https://realtime-voice-agent-production.up.railway.app) |
+
 
 ## 📊 GitHub Stats
 
