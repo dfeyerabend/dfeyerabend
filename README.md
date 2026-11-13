@@ -18,9 +18,9 @@
 ## 🌟 Featured Projects
 
 ### 📊 Data Wrangling
-| Project | Description |
+| Project | Description | Repo | Demo |
 |---------|-------------|
-| [**data-quality-toolkit**](https://github.com/dfeyerabend/data-quality-toolkit) | Column-by-column quality report for tabular data — one API over two engines: pandas for messy CSV, DuckDB SQL for typed Parquet. [Live demo](https://data-quality-toolkit-production.up.railway.app) |
+| [**data-quality-toolkit**](https://github.com/dfeyerabend/data-quality-toolkit) | Column-by-column quality report for tabular data — one API over two engines: pandas for messy CSV, DuckDB SQL for typed Parquet. | [code](https://github.com/dfeyerabend/data-quality-toolkit) | [demo](https://data-quality-toolkit-production.up.railway.app) |
 
 
 ### 🧠 Machine Learning
@@ -33,7 +33,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**multi-agent-code-review**](https://github.com/dfeyerabend/multi-agent-code-review) | Multi-agent RAG system for automated Python code review using RAG and LLM-based evaluation |
+| [**multi-agent-code-review**](https://github.com/dfeyerabend/multi-agent-code-review) | Four-agent pipeline for automated Python code review, grounded in a RAG knowledge base; ratings follow fixed rules in code, so results are reproducible |
 | [**realtime-voice-agent**](https://github.com/dfeyerabend/realtime-voice-agent) | Real-time voice chatbot with streaming STT → LLM → TTS pipeline, reducing latency from ~10s to ~1–2s |
 
 ## 📊 GitHub Stats
