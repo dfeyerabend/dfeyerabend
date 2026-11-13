@@ -20,22 +20,21 @@
 ### 📊 Data Wrangling
 | Project | Description |
 |---------|-------------|
-| [**data-quality-toolkit**](https://github.com/dfeyerabend/data-quality-toolkit) | Data quality checks for tabular data, one API over two engines: pandas for messy CSV and DuckDB SQL for typed Parquet |
+| [**data-quality-toolkit**](https://github.com/dfeyerabend/data-quality-toolkit) | Column-by-column quality report for tabular data — one API over two engines: pandas for messy CSV, DuckDB SQL for typed Parquet. [Live demo](https://data-quality-toolkit-production.up.railway.app) |
 
 
 ### 🧠 Machine Learning
 
 | Project | Description |
 |---------|-------------|
-| [**distil-support-llm**](https://github.com/dfeyerabend/distill-support-llm) | QLoRA fine-tuning of a 7B German LLM + knowledge distillation into a 1B student model — 2.7× faster inference at 75% lower VRAM, evaluated with an LLM-as-judge pipeline |
+| [**distil-support-llm**](https://github.com/dfeyerabend/distill-support-llm) | QLoRA fine-tuning of a 7B German LLM and distillation into a 1B student — 2.9× throughput at a quarter of the VRAM. Evaluated with a pre-specified paired design: blind LLM-as-judge scoring, exact McNemar tests with Holm correction, bootstrap intervals |
 
 ### 🤖 AI & LLM Applications
 
 | Project | Description |
 |---------|-------------|
-| [**realtime-voice-agent**](https://github.com/dfeyerabend/realtime-voice-agent) | Real-time voice chatbot with streaming STT → LLM → TTS pipeline, reducing latency from ~10s to ~1–2s |
 | [**multi-agent-code-review**](https://github.com/dfeyerabend/multi-agent-code-review) | Multi-agent RAG system for automated Python code review using RAG and LLM-based evaluation |
-
+| [**realtime-voice-agent**](https://github.com/dfeyerabend/realtime-voice-agent) | Real-time voice chatbot with streaming STT → LLM → TTS pipeline, reducing latency from ~10s to ~1–2s |
 
 ## 📊 GitHub Stats
 
