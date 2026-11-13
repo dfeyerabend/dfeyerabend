@@ -19,7 +19,7 @@
 
 ### 📊 Data Wrangling
 | Project | Description | Repo | Demo |
-|---------|-------------|
+|---------|-------------|------|------|
 | [**data-quality-toolkit**](https://github.com/dfeyerabend/data-quality-toolkit) | Column-by-column quality report for tabular data — one API over two engines: pandas for messy CSV, DuckDB SQL for typed Parquet. | [code](https://github.com/dfeyerabend/data-quality-toolkit) | [demo](https://data-quality-toolkit-production.up.railway.app) |
 
 
