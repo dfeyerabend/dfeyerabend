@@ -27,7 +27,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**distil-support-llm**](https://github.com/Feyerade/distil-support-llm) | QLoRA fine-tuning of a 7B German LLM + knowledge distillation into a 1B student model — 2.7× faster inference at 75% lower VRAM, evaluated with an LLM-as-judge pipeline |
+| [**distil-support-llm**](https://github.com/dfeyerabend/distill-support-llm) | QLoRA fine-tuning of a 7B German LLM + knowledge distillation into a 1B student model — 2.7× faster inference at 75% lower VRAM, evaluated with an LLM-as-judge pipeline |
 
 ### 🤖 AI & LLM Applications
 
