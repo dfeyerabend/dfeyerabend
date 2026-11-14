@@ -2,17 +2,20 @@
 
 # Hi 👋
 
-- I'm an aspiring AI Engineer based in Germany, focused on building LLM-powered systems and end-to-end ML pipelines.
-- My work includes real-time voice interfaces, multi-agent architectures, and model evaluation pipelines, with an emphasis on practical deployment and system performance.
+- Based in Hamburg, Germany. Seven years of quantitative analysis and reporting in research and industry, now focused on data analysis and data science.
+- I work in Python and SQL on data quality, statistics and evaluation design, and build LLM and agent systems.
 
 
 ## 🛠️ Tech Stack
 
-- **Languages & Data:** Python · SQL · PySpark · R  
-- **ML & LLMs:** PyTorch · scikit-learn · Transformers · RAG · LLM Agents  
-- **Data & Processing:** Pandas · Polars · DuckDB  
-- **Visualization:** Matplotlib · Plotly · Streamlit  
-- **Deployment:** FastAPI · Docker · Railway · AWS/GCP 
+- **Programming Languages:** Python · SQL · R
+- **Data & Processing:** pandas · DuckDB · PySpark
+- **Statistics:** SciPy · hypothesis testing · paired designs · bootstrap · effect sizes
+- **Visualization:** matplotlib · Plotly · Streamlit
+- **ML & LLMs:** PyTorch · scikit-learn · Transformers · QLoRA/LoRA · RAG · ChromaDB
+- **Agents & Tooling:** Claude SDK · MCP · LLM-as-judge evaluation
+- **Testing & Quality:** pytest · ruff · bandit
+- **Deployment:** FastAPI · Docker · Gradio · Railway · AWS/GCP
 
 
 ## 🌟 Featured Projects
@@ -35,11 +38,6 @@
 |---------|-------------|------|------|
 | **multi-agent-code-review** | Multi-agent RAG system for automated Python code review using RAG and LLM-based evaluation | [Code](https://github.com/dfeyerabend/multi-agent-code-review) | [Demo](https://multi-agent-code-review-production.up.railway.app) |
 | **realtime-voice-agent** | Real-time voice chatbot with streaming STT → LLM → TTS pipeline, reducing latency from ~10s to ~1–2s | [Code](https://github.com/dfeyerabend/realtime-voice-agent) | [Demo](https://realtime-voice-agent-production.up.railway.app) |
-
-
-## 📊 GitHub Stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dfeyerabend&bg_color=000000&color=4ade80&line=22c55e&point=4ade80&area=true&area_color=166534&hide_border=true&radius=0)
 
 
 ## 📫 Connect With Me
